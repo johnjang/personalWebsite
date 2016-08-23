@@ -1,0 +1,43 @@
+
+body {
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+html {
+    height: 100%;
+}
+
+
+p {
+    font-family: Cursive;
+    font-size: 25px;
+}
+
+
+#main {
+    border: 5px dashed black;
+
+    width: 100%;
+    margin:auto;
+    color: red;
+    text-align: center;
+}
+
+.menu {
+    border: 5px dashed black;
+
+    height: 50px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.button {
+    border: 5px dashed black;
+
+    float: left;
+    color: white;
+    text-align: center;
+}
