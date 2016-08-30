@@ -1,11 +1,23 @@
-
-
-
 body {
-    background-color: white;
+    background-color: #99bbff;
     margin:auto;
+}
+
+/*It will hold 3 blocks. pictures and my interests*/
+#main {
+
 
 }
 
+#dislikes {
+    width:40%;
+    margin:right;
+}
+
+
+#likes {
+    width:40%;
+    margin: left;
+}
 
 
